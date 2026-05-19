@@ -2,7 +2,7 @@
 {
 	position: relative;
     overflow: hidden;
-    background: linear-gradient(rgba(31, 46, 78, 1), rgba(0, 12, 33, 0.8)), url(../images/fact-bg.jpg);
+    background: linear-gradient(rgba(31, 46, 78, 1), rgba(0, 12, 33, 0.8)), url(fact-bg.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
