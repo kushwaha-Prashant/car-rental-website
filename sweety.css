@@ -349,6 +349,7 @@ background: linear-gradient(to right, #ff8008, #ffc837);
     text-align: center;
     box-shadow: 0 0 45px rgba(0, 0, 0, .1);
     border-radius: 10px;
+	cursor: -webkit-zoom-in;
     background: var(--bs-white);
     transition: 0.5s;
 }
